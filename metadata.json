@@ -1,0 +1,8 @@
+{
+  "name": "EKSM SOP Guidelines",
+  "description": "Standard Operating Procedures for the Eklavya Khel Spardha Manch (EKSM)",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
